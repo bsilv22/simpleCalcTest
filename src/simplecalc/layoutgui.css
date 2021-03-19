@@ -1,0 +1,23 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+    -fx-background-color:#0000ff;
+}
+
+Button{
+    
+    -fx-background-color:#00cc33;
+}
+
+Button:hover{
+    
+    -fx-text-fill: #cc0033;
+}
+
+TextField{
+    -fx-background-color:#000000;
+    -fx-text-fill:#ffffff;
+}
+
