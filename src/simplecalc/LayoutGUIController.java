@@ -20,6 +20,8 @@ import javafx.scene.control.TextField;
  */
 public class LayoutGUIController implements Initializable {
 
+    
+    
     private String  crrntArthOp="DEFAULT";
     private String opd1="0";
     

@@ -18,6 +18,9 @@ import javafx.stage.Stage;
 public class SimpleCalc extends Application {
     public static void main(String[] args){
     launch(args);
+    
+    System.out.print("Testing");
+            
     }
     
     @Override
